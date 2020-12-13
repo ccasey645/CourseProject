@@ -16,6 +16,11 @@ link: https://github.com/ccasey645/CourseProject/blob/main/Final_Project_Final_R
 link: https://drive.google.com/file/d/1Ty8QGFlu-29FeX0yPSJ502Wzu_YwygVt/view?usp=sharing
 On Google Drive because Git's file size limit prevented me from uploading it here.
 
+## Installation Demo Video File: Mentioned this in Presentation Video File
+### This 12 minute video demonstrated how "sudo python3.8 -m pip install metapy" fails, but "sudo python3.8 -m pip install git+https://github.com/ccasey645/metapy.git" succeeds"
+link: https://drive.google.com/file/d/1cb1YbEJkYavFmk_LiHOLWqlwR72bLMAS/view?usp=sharing
+On Google Drive
+
 
 ## Source Code:
 CourseProject/metapy
